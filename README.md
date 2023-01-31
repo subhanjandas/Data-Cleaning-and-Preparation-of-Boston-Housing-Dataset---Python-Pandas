@@ -1,1 +1,2 @@
-# Predicting Housing Prices Using Multiple Linear Regression and k NearestNeighbours
+# Data Cleaning and Preparation Guide - Python Pandas
+
