@@ -10,3 +10,15 @@ The final step involves cleaning the data for further analysis. The genuine outl
 ## Tools Used
 - Python
 - Pandas
+
+## Project Screenshots
+- ![image](https://user-images.githubusercontent.com/69835617/215856378-8f5b8f69-c084-4790-8492-ecd15d258356.png)
+- ![image](https://user-images.githubusercontent.com/69835617/215856399-2b4929bc-349e-439a-a23a-a28540e618b4.png)
+- ![image](https://user-images.githubusercontent.com/69835617/215856431-9f5d92c4-baba-49a0-950d-6b3ccbda175c.png)
+- ![image](https://user-images.githubusercontent.com/69835617/215856452-75c69d27-e226-4e8d-b05d-4f700ba343c8.png)
+- ![image](https://user-images.githubusercontent.com/69835617/215856470-6bd13ef8-fabb-40e7-93e8-8fe28dad638b.png)
+- ![image](https://user-images.githubusercontent.com/69835617/215856492-714fb169-0a0d-4f9e-af60-d70e518f656f.png)
+- ![image](https://user-images.githubusercontent.com/69835617/215856510-b17a8072-958b-4be7-9839-e902bf89e006.png)
+- ![image](https://user-images.githubusercontent.com/69835617/215856523-57ef84fb-4eb2-4f6b-83bf-11e139be68b9.png)
+- ![image](https://user-images.githubusercontent.com/69835617/215856554-8ec5c14e-3f07-45f0-ba5f-8fcc7a8e4d3c.png)
+- ![image](https://user-images.githubusercontent.com/69835617/215856571-d1cd79c9-6d2c-44c2-a926-dfd0efa7b376.png)
