@@ -1,1 +1,1 @@
-# Predicting-Housing-Prices-Using-Multiple-Linear-Regression-and-k-NearestNeighbours-
+# Predicting Housing Prices Using Multiple Linear Regression and k NearestNeighbours
